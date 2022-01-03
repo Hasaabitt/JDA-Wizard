@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hasaabitt.jdawizard.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hasaabitt.jdawizard.MyBundle
 
 class MyApplicationService {
 
